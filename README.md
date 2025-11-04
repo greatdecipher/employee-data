@@ -2,6 +2,11 @@
 
 A GUI application that generates realistic employee data and exports it to Excel files.
 
+![Application Screenshot](samples/image.png)
+
+**Sample Output:** [employees.xlsx](samples/employees.xlsx)
+
+
 ## ✨ Features
 
 - **Step-by-step workflow** with clear guidance
